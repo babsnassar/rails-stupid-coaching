@@ -1,4 +1,4 @@
-class PagesController < ApplicationController
+class QuestionsController < ApplicationController
   def ask
   end
 
